@@ -1,8 +1,6 @@
 # Snake Game in Python
 
 Classic Snake game implemented in Python using Turtle graphics.
-<br> <br>
-<img src="snake.png" width="500">
 
 ## How to Play
 
@@ -20,3 +18,8 @@ Classic Snake game implemented in Python using Turtle graphics.
 
 1. Clone the repository.
 2. Run the `snake.py` script using a Python interpreter.
+
+
+<br>
+
+<img src="snake.png" width="500">
