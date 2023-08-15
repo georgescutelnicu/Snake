@@ -2,7 +2,7 @@
 
 Classic Snake game implemented in Python using Turtle graphics.
 
-<img src="extras/snake.png" width="600">
+<img src="snake.png" width="500">
 
 ## How to Play
 
